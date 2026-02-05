@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vs/
+*.csproj
+*.sln
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Note: .meta files are INCLUDED for Unity packages
+# They contain GUIDs required for proper references

@@ -1,0 +1,33 @@
+{
+    "name": "LWT.UnityWorkbench.Editor",
+    "rootNamespace": "LWT.UnityWorkbench.Editor",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "LWT.UnityWorkbench.Attributes",
+        "LWT.UnityWorkbench.Utilities",
+        "LWT.UnityWorkbench.Data",
+        "LWT.UnityWorkbench.UI",
+        "LWT.UnityWorkbench.Audio",
+        "LWT.UnityWorkbench.Camera",
+        "LWT.UnityWorkbench.Input",
+        "LWT.UnityWorkbench.SceneManagement",
+        "LWT.UnityWorkbench.Gameplay",
+        "LWT.UnityWorkbench.Debug",
+        "LWT.UnityWorkbench.App",
+        "LWT.UnityWorkbench.Network",
+        "LWT.UnityWorkbench.Localization",
+        "LWT.UnityWorkbench.Notification",
+        "LWT.UnityWorkbench.Permission"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

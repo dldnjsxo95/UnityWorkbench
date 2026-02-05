@@ -1,0 +1,19 @@
+{
+    "name": "LWT.UnityWorkbench.UI",
+    "rootNamespace": "LWT.UnityWorkbench.UI",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "LWT.UnityWorkbench.Utilities",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

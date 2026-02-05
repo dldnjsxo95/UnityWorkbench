@@ -1,0 +1,17 @@
+{
+    "name": "LWT.UnityWorkbench.SceneManagement",
+    "rootNamespace": "LWT.UnityWorkbench.SceneManagement",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "LWT.UnityWorkbench.UI"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

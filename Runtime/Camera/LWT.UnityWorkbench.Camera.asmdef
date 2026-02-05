@@ -1,0 +1,17 @@
+{
+    "name": "LWT.UnityWorkbench.Camera",
+    "rootNamespace": "LWT.UnityWorkbench.Camera",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "LWT.UnityWorkbench.Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

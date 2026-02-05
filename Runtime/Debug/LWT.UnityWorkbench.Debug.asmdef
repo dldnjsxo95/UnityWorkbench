@@ -1,0 +1,17 @@
+{
+    "name": "LWT.UnityWorkbench.Debug",
+    "rootNamespace": "LWT.UnityWorkbench.Debug",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "LWT.UnityWorkbench.Gameplay"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

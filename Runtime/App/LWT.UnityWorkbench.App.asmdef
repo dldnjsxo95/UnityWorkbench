@@ -1,0 +1,16 @@
+{
+    "name": "LWT.UnityWorkbench.App",
+    "rootNamespace": "LWT.UnityWorkbench.App",
+    "references": [
+        "LWT.UnityWorkbench.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

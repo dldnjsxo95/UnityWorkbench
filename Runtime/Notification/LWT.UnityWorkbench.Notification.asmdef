@@ -1,0 +1,17 @@
+{
+    "name": "LWT.UnityWorkbench.Notification",
+    "rootNamespace": "LWT.UnityWorkbench.Notification",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "LWT.UnityWorkbench.Input",
+    "rootNamespace": "LWT.UnityWorkbench.InputHandling",
+    "references": [
+        "LWT.UnityWorkbench.Core",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

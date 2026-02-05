@@ -1,0 +1,16 @@
+{
+    "name": "LWT.UnityWorkbench.Permission",
+    "rootNamespace": "LWT.UnityWorkbench.Permission",
+    "references": [
+        "LWT.UnityWorkbench.Core"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
