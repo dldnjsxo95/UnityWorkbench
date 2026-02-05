@@ -6,7 +6,7 @@ Unity 게임/앱 개발을 위한 모듈형 프레임워크입니다.
 
 ### Unity Package Manager (Git URL)
 ```
-https://github.com/dldnjsxo95/UnityWorkbench.git?path=Assets/UnityWorkbench
+https://github.com/dldnjsxo95/UnityWorkbench.git
 ```
 
 ### 수동 설치
