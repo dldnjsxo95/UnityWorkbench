@@ -48,7 +48,7 @@ namespace LWT.UnityWorkbench.CameraSystem
             if (_fadeImage == null)
             {
                 // Try to find or create fade canvas
-                var canvas = FindObjectOfType<Canvas>();
+                var canvas = Object.FindFirstObjectByType<Canvas>();
                 if (canvas == null)
                 {
                     var canvasGO = new GameObject("FadeCanvas");
