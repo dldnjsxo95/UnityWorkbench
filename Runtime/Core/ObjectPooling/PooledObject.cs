@@ -44,12 +44,20 @@ namespace LWT.UnityWorkbench.Core
             {
                 if (_rigidbody != null)
                 {
+#if UNITY_6000_0_OR_NEWER
                     _rigidbody.linearVelocity = Vector3.zero;
+#else
+                    _rigidbody.velocity = Vector3.zero;
+#endif
                     _rigidbody.angularVelocity = Vector3.zero;
                 }
                 if (_rigidbody2D != null)
                 {
+#if UNITY_6000_0_OR_NEWER
                     _rigidbody2D.linearVelocity = Vector2.zero;
+#else
+                    _rigidbody2D.velocity = Vector2.zero;
+#endif
                     _rigidbody2D.angularVelocity = 0f;
                 }
             }
